@@ -22,6 +22,7 @@ In accordance with official PES University Software Engineering Lab submission g
 | **d** | **`4-Folder for SRS and Work Breakdown steps`** | IEEE 830-style Software Requirements Specification (SRS) and 4-Level Work Breakdown Structure (WBS) with Jira issue mapping and story point estimations. | [`4-Folder for SRS and Work Breakdown steps/`](4-Folder%20for%20SRS%20and%20Work%20Breakdown%20steps/) |
 | **e** | **`5-Folder for Github Copilot generated code screen shot or repository link`** | GitHub Copilot AI-assisted engineering prompts, code generation artifacts (health pinger, Neo4j traversal, OpenAPI validator), and external demo repository links. | [`5-Folder for Github Copilot generated code screen shot or repository link/`](5-Folder%20for%20Github%20Copilot%20generated%20code%20screen%20shot%20or%20repository%20link/) |
 | **f** | **`6-Folder for Practicing on Software Testing Tools`** | Software testing methodologies, vibe coding defect remediation protocols, 4-test cases framework, patch validation, and repository reference. | [`6-Folder for Practicing on Software Testing Tools/`](6-Folder%20for%20Practicing%20on%20Software%20Testing%20Tools/) |
+| **g** | **`Lab-4`** | Complete official Lab 4 Vibe Coding submission folder: 10s gameplay before/after videos, full updated game code, exported chat history PDF report, and test verification suite. | [`Lab-4/`](Lab-4/) |
 
 ---
 
@@ -49,6 +50,16 @@ In accordance with official PES University Software Engineering Lab submission g
 - **1-Page Architectural Justification:** [architectural_justification.pdf](2-Folder%20for%20Architectural%20Diagram/architectural_justification.pdf) & [architectural_justification.docx](2-Folder%20for%20Architectural%20Diagram/architectural_justification.docx) & [architectural_justification.md](2-Folder%20for%20Architectural%20Diagram/architectural_justification.md)
 - **Combined Submission PDF:** [Lab_3_Component_Modeling_PES1UG24CS473.pdf](2-Folder%20for%20Architectural%20Diagram/Lab_3_Component_Modeling_PES1UG24CS473.pdf) (High-Res Component Diagram + 1-Page Architectural Justification)
 - **Handouts:** [Lab_3_Architecture_Student_handout.pdf](2-Folder%20for%20Architectural%20Diagram/Lab_3_Architecture_Student_handout.pdf) & [Git Hub Project Submission Details.docx](2-Folder%20for%20Architectural%20Diagram/Git%20Hub%20Project%20Submission%20Details.docx)
+
+### 📂 Lab 4: Vibe Coding — Interactive Physics Tilt Maze (#42)
+- **Assigned Repository:** [https://github.com/SETAPESU26/42_marble-tilt-maze](https://github.com/SETAPESU26/42_marble-tilt-maze)
+- **Personal Solution Repository:** [https://github.com/SubramaniBM/42_marble-tilt-maze](https://github.com/SubramaniBM/42_marble-tilt-maze)
+- **Official Handout:** [Lab_4_VibeCoding_Student_handout.pdf](Lab-4/Lab_4_VibeCoding_Student_handout.pdf)
+- **Before Video (10s):** [before_gameplay.mp4](Lab-4/videos/before_gameplay.mp4) (Demonstrating corner phantom bounce defect)
+- **After Video (10s):** [after_gameplay.mp4](Lab-4/videos/after_gameplay.mp4) (Demonstrating true Circle-AABB collision, victory modal, and replay)
+- **Exported Vibe Coding Chat History PDF:** [Lab_4_VibeCoding_Chat_History_PES1UG24CS473.pdf](Lab-4/Lab_4_VibeCoding_Chat_History_PES1UG24CS473.pdf)
+- **Complete Source Code & Audio:** [`Lab-4/code/`](Lab-4/code/) & [`6-Folder for Practicing on Software Testing Tools/`](6-Folder%20for%20Practicing%20on%20Software%20Testing%20Tools/)
+- **Comprehensive Guide & Test Report:** [Lab-4/README.md](Lab-4/README.md)
 
 ---
 
