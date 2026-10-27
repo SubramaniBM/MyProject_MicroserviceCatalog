@@ -23,6 +23,7 @@ In accordance with official PES University Software Engineering Lab submission g
 | **e** | **`5-Folder for Github Copilot generated code screen shot or repository link`** | GitHub Copilot AI-assisted engineering prompts, code generation artifacts (health pinger, Neo4j traversal, OpenAPI validator), and external demo repository links. | [`5-Folder for Github Copilot generated code screen shot or repository link/`](5-Folder%20for%20Github%20Copilot%20generated%20code%20screen%20shot%20or%20repository%20link/) |
 | **f** | **`6-Folder for Practicing on Software Testing Tools`** | Software testing methodologies, vibe coding defect remediation protocols, 4-test cases framework, patch validation, and repository reference. | [`6-Folder for Practicing on Software Testing Tools/`](6-Folder%20for%20Practicing%20on%20Software%20Testing%20Tools/) |
 | **g** | **`Lab-4`** | Complete official Lab 4 Vibe Coding submission folder: 10s gameplay before/after videos, full updated game code, exported chat history PDF report, and test verification suite. | [`Lab-4/`](Lab-4/) |
+| **h** | **`Lab-5`** | Complete official Lab 5 Static Code Analysis submission folder: Pylint (10.00/10), Bandit (0 issues), Flake8 (0 issues), before/after reports, issues table, reflection, and PDF report. | [`Lab-5/`](Lab-5/) |
 
 ---
 
@@ -60,6 +61,17 @@ In accordance with official PES University Software Engineering Lab submission g
 - **Exported Vibe Coding Chat History PDF:** [Lab_4_VibeCoding_Chat_History_PES1UG24CS473.pdf](Lab-4/Lab_4_VibeCoding_Chat_History_PES1UG24CS473.pdf)
 - **Complete Source Code & Audio:** [`Lab-4/code/`](Lab-4/code/) & [`6-Folder for Practicing on Software Testing Tools/`](6-Folder%20for%20Practicing%20on%20Software%20Testing%20Tools/)
 - **Comprehensive Guide & Test Report:** [Lab-4/README.md](Lab-4/README.md)
+
+### 📂 Lab 5: Static Code Analysis — Restaurant Order System (#49)
+- **Assigned Repository:** [https://github.com/SETAPESU26/L5_49_restaurant_order_system](https://github.com/SETAPESU26/L5_49_restaurant_order_system)
+- **Personal Solution Repository:** [https://github.com/SubramaniBM/L5_49_restaurant_order_system](https://github.com/SubramaniBM/L5_49_restaurant_order_system)
+- **Official Handout:** [Lab_5_Static_Code_Analysis_Student_handout.pdf](Lab-5/Lab_5_Static_Code_Analysis_Student_handout.pdf)
+- **Remediated Source Code:** [`Lab-5/restaurant_order_system.py`](Lab-5/restaurant_order_system.py) (Pylint 10.00/10, Bandit 0, Flake8 0)
+- **Documented Issue Table:** [`Lab-5/issues.md`](Lab-5/issues.md) (14 Issues documented across Pylint, Bandit, Flake8)
+- **Reflection & Analysis:** [`Lab-5/reflection.md`](Lab-5/reflection.md) (Answers to all reflection questions)
+- **Comprehensive PDF Report:** [Lab_5_Static_Code_Analysis_Report_PES1UG24CS473.pdf](Lab-5/Lab_5_Static_Code_Analysis_Report_PES1UG24CS473.pdf)
+- **Static Analysis Reports (Before & After):** [`Lab-5/reports/`](Lab-5/reports/)
+- **Comprehensive Guide & Benchmarks:** [Lab-5/README.md](Lab-5/README.md)
 
 ---
 
